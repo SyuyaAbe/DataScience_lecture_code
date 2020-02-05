@@ -1,0 +1,13 @@
+
+・mlit_y28.txt , mlit_y29.txt , mlit_y30.txt
+
+出展: 国土交通省ホームページ 国土交通白書 URL： http://www.mlit.go.jp/statistics/file000004.html
+H28-H30年度分のテキスト文書データをダウンロードし格納したもの。
+
+・env_y28.txt , env_y29.txt , env_y30.txt
+
+出展: 環境省ホームページ 過去の環境白書 URL: http://www.env.go.jp/policy/hakusyo/past_index.html
+H28-H30年度分のhtml文書中から文書部分のデータを格納したもの。
+
+
+
